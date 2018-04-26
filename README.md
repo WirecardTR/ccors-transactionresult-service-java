@@ -1,5 +1,4 @@
 # ccors-transactionresult-service-java
-Wirecard Ödeme Sistemleri .Net Örnek Projesi
 
 ## Kullanım
 Wirecard servislerini kullanabilmek için [Wirecard'a](https://www.wirecard.com.tr) üye olmalısınız. Üye olduktan sonra Wirecard sizinle token bilgileri için UserCode ve Pin keylerini, sms ile ödeme servislerinde kullanılacak olan TurkcellServiceId değerlerini sizinle paylaşacaktır. Paylaşılan bu anahtarları kendi projenizde ilgili yerlere yazarak saklamanız ve kullanmanız gerekmektedir.
